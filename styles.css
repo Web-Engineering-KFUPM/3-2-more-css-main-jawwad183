@@ -90,6 +90,9 @@ body {
   --card: #ffffff;         /* card/background surfaces */
 }
 
+*{
+  box-sizing: border-box;
+}
 .site-header,
 .site-footer {
   text-align: center;
